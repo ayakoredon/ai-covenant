@@ -18,13 +18,13 @@ This diagram specifies intended conduct and review. It does not depict an AI's i
 
 | Item | What its version identifies | Who decides on a change |
 |---|---|---|
-| Framework edition | This collection of guidance and templates, currently v0.3.3 | Framework maintainers |
+| Framework edition | This collection of guidance and templates, currently v0.3.4 | Framework maintainers |
 | Core Safeguards | The exact non-waivable floor, currently 0.2.0-draft | Framework governance; users cannot weaken it |
 | Your Card or Charter | Your own dated wording and intended boundaries | You or a legitimately authorized issuer |
 | Environment binding | A particular document and control configuration in a particular product | Authorized host-side owner, under the formal lifecycle |
 | Action authorization | One reviewed, bounded action with its expiry and single-use state | The authenticated, authorized approver |
 
-Installing a new framework edition does not update the other items. In this revision the Core bytes and digest are unchanged. A personal document can start at `1.0` even though the framework is `v0.3.3`.
+Installing a new framework edition does not update the other items. In this revision the Core bytes and digest are unchanged. A personal document can start at `1.0` even though the framework is `v0.3.4`.
 
 ## Revise a Safe Start Card
 

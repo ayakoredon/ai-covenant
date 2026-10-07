@@ -31,7 +31,7 @@ The internal result `no conflict identified` means only that no Core conflict wa
 
 ## Prohibited uses of the framework name
 
-- No certification seal, trust mark, compliance badge, or safety rating exists in Draft v0.3.3.
+- No certification seal, trust mark, compliance badge, or safety rating exists in Draft v0.3.4.
 - Do not use the framework as the sole basis for discipline, denial of a benefit, adverse action, exoneration, or allocation of liability.
 - Do not compel an employee, contractor, customer, child, patient, or dependent person to disclose personal values or purportedly consent to organizational AI use through this process.
 - Do not omit failed tests, unresolved conflicts, or lack of technical enforcement when describing an implementation.
@@ -43,3 +43,9 @@ Using these materials does not waive any right or duty, create a presumption of 
 ## Future assurance programs
 
 Any future conformance or certification program would require separate governance, independent assessment, conflict-of-interest controls, published criteria, appeals, surveillance, and revocation. This draft provides none of those things.
+
+## Copyright licensing and claims
+
+The [documentation license and commercial-permission policy](../LICENSE-DECISION.md) concern copyright permission. CC BY-NC 4.0 permits adaptation under its terms; permission to change a document does not establish that the result follows the framework's unchanged Core. Framework claims must accurately describe their scope and evidence. The policies in this document are not additional conditions on the CC license.
+
+Neither the documentation license nor separate commercial permission establishes Core conformity, certification, endorsement, safety, or ethical assurance. Ethical-use review for separate commercial permission is a consultation policy, not an added restriction on CC-authorized noncommercial use. The CC license alone cannot prevent every harmful use.

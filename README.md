@@ -2,7 +2,7 @@
 
 **A steady basis for judgment, with room to respond to the situation.**
 
-Draft v0.3.3 · English edition · Working title · 7 October 2026
+Draft v0.3.4 · English edition · Working title · 7 October 2026
 
 ## Why AI Covenant exists
 
@@ -31,7 +31,7 @@ When a response feels inconsistent or too rigid, compare it with the principles 
 
 That may also help make everyday misunderstandings visible: repeating important priorities, unclear boundaries between drafting and sending, or uncertainty about why work has stopped. The document itself does not supply memory, continued execution, or protection against unwanted actions. Reliable behavior also depends on the product's context handling, task tracking, and actual controls.
 
-**Start with [Start Here](START_HERE.md)** or the illustrated [six-page first-session guide](guides/AI_Covenant_First_Session_Guide_v0.3.3_EN.pdf). Begin with one small, low-risk session. You do not need to fill every file in this repository.
+**Start with [Start Here](START_HERE.md)** or the illustrated [six-page first-session guide](guides/AI_Covenant_First_Session_Guide_v0.3.4_EN.pdf). Begin with one small, low-risk session. You do not need to fill every file in this repository.
 
 ![Enduring user-confirmed values and priorities guide a context-sensitive application loop. Core Safeguards form a separate non-waivable floor. Changing the central values requires explicit human amendment, not automatic task feedback.](assets/living-charter-cycle.svg)
 
@@ -84,7 +84,7 @@ The full framework keeps five things separate:
 
 Formal adoption and deployment have separate requirements. A personal card confirmation, uploaded document, model reply, or test cannot activate a formal deployment. Use the [Lifecycle Specification](docs/LIFECYCLE.md) and [Implementer Path](docs/IMPLEMENTER_PATH.md).
 
-The **framework edition is v0.3.3**. The **Core remains 0.2.0-draft, byte-for-byte unchanged**. Your own Card or Charter has its own ID and version. A new framework edition does not silently change your document or any environment binding.
+The **framework edition is v0.3.4**. The **Core remains 0.2.0-draft, byte-for-byte unchanged**. Your own Card or Charter has its own ID and version. A new framework edition does not silently change your document or any environment binding.
 
 ## Repository map
 
@@ -103,4 +103,12 @@ After unpacking, run `python3 scripts/verify_package.py` from the repository. It
 
 ## Project status
 
-This is a public review draft, not a stable release or a working enforcement system. AI Covenant Framework remains a working title; naming and trademark review remain open. No additional reuse license has been selected. Independent expert and real-user review, a confidential security-reporting route, and a tested reference implementation also remain open. Diagrams and examples explain the design; no example is a reported model evaluation or proof of compliance.
+This is a public review draft, not a stable release or a working enforcement system. AI Covenant Framework remains a working title; naming and trademark review remain open. Documentation is licensed under CC BY-NC 4.0; software licensing remains undecided. See the licensing section below. Independent expert and real-user review, a confidential security-reporting route, and a tested reference implementation also remain open. Diagrams and examples explain the design; no example is a reported model evaluation or proof of compliance.
+
+## Reuse and licensing
+
+Documentation, diagrams, the guide, and document templates are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial permission is considered individually after review of the intended use; no blanket additional exception is granted for companies' internal use. Software, including `scripts/verify_package.py`, is excluded and has no additional reuse license. See the [scope notice](LICENSE), [licensing and commercial-permission policy](LICENSE-DECISION.md), and unchanged [official legal code](licenses/CC-BY-NC-4.0.txt).
+
+Copyright permission to copy or adapt the materials is separate from whether an implementation follows the [Core Safeguards](docs/HUMAN_RIGHTS_FLOOR.md). The license permits document adaptation under its terms; an adaptation does not establish framework conformity. Licensing grants no certification, safety assurance, or endorsement. The [Claims Policy](docs/CLAIMS_POLICY.md) describes supported claims and is not an additional CC license condition. The Core text is unchanged.
+
+Your own original Card or Charter text and personal information remain yours; this license notice acquires no rights in them and creates no publication duty. Previously distributed v0.3.3 materials and dated reviews predate this decision; this repository's current licensing status is stated in LICENSE-DECISION.md.

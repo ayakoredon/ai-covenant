@@ -26,7 +26,7 @@ No person may authorize rights, data, or resources they do not control.
 
 Proposed class: `[value]`
 
-Draft v0.3.3 is not sufficient by itself for high-impact deployment.
+Draft v0.3.4 is not sufficient by itself for high-impact deployment.
 
 ## 3. Affected people and rights
 
@@ -86,4 +86,4 @@ Human approval does not cure an unlawful, discriminatory, or Core-conflicting ac
 - Conditions and residual risks: `[details]`
 - Next review trigger: `[details]`
 
-`Consequential` requires an Environment Control and Test Record and a Contestability and Remedy Plan. `High-impact` requires governance beyond Draft v0.3.3. `Blocked` must not proceed through this framework.
+`Consequential` requires an Environment Control and Test Record and a Contestability and Remedy Plan. `High-impact` requires governance beyond Draft v0.3.4. `Blocked` must not proceed through this framework.

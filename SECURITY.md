@@ -2,7 +2,7 @@
 
 ## Status
 
-Draft v0.3.3 is publicly available for review as documentation, not as an enforcement engine or supported implementation. Implementers must supply and verify the controls described here.
+Draft v0.3.4 is publicly available for review as documentation, not as an enforcement engine or supported implementation. Implementers must supply and verify the controls described here.
 
 Use the repository Issues for non-sensitive documentation feedback. Do not post credentials, personal data, private incident records, or details that could expose a live system. A confidential security-reporting route has not yet been established, and no response-time or security-support commitment is offered. A stable implementation release would need an appropriate reporting route, supported-version policy, response process, and coordinated-disclosure terms.
 

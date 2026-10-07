@@ -1,6 +1,6 @@
 # Contributing
 
-Draft v0.3.3 is seeking critical review, not endorsement.
+Draft v0.3.4 is seeking critical review, not endorsement.
 
 Useful contributions include:
 
@@ -24,3 +24,7 @@ For every change, state:
 Do not collapse framework safeguards, user values, AI suggestions, organizational rules, and technical permissions into one layer. Do not add a certification or aggregate safety score. Provider-specific requirements belong in environment profiles or adapters.
 
 AI-assisted contributions are welcome when disclosed. A model-generated review is not independent assurance. Do not include private data, credentials, hidden system instructions, or private chain-of-thought.
+
+## Licensing context
+
+The [licensing notice](LICENSE-DECISION.md) covers project documentation under CC BY-NC 4.0 and excludes executable code, whose additional reuse license remains undecided. Identify any third-party material and its applicable terms when proposing a contribution, and avoid submitting material you lack authority to share. This update creates no contributor assignment or separate commercial agreement. Do not describe copyright permission as proof of Core conformity or certification.

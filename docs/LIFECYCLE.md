@@ -1,6 +1,6 @@
 # Lifecycle Specification
 
-This is the canonical state vocabulary for Draft v0.3.3. Do not invent alternative state names in implementation records.
+This is the canonical state vocabulary for Draft v0.3.4. Do not invent alternative state names in implementation records.
 
 ## Separate state dimensions
 

@@ -67,3 +67,7 @@ The revised diagram distinguishes the non-waivable Core Safeguards, enduring use
 Routine feedback does not directly rewrite the center. The accompanying text explains that this separation does not waive any existing review or formal lifecycle requirement for material document, scope, or control changes. The diagram expresses intended guidance and an evaluation standard; it does not represent an AI's inner self, strict deduction of all outputs, or guaranteed personality consistency. The exact Core remains unchanged.
 
 The companion guide now has six pages so the diagram and example remain readable. The purpose-first opening remains intact. All pages and diagram labels were visually reviewed, and the package integrity and link checks were rerun.
+
+## Subsequent licensing decision - 7 October 2026
+
+The licensing status above is retained as the historical review record. Draft v0.3.4 adopts CC BY-NC 4.0 for documentation, diagrams, the guide, and document templates, with software excluded and additional software licensing still undecided. Commercial permission is considered separately, case by case. See [the current licensing notice](../LICENSE-DECISION.md). This decision does not change the Core or establish certification or independent assurance.

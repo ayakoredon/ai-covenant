@@ -1,0 +1,13 @@
+# License scope
+
+The documentation, diagrams, guide PDF, examples, prompts, review documents, evaluation procedure documents, and document templates are licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), to the extent the project has authority to license them.
+
+This covers root Markdown documents and documentary/artistic material in assets/, docs/, examples/, guides/, prompts/, reviews/, templates/, and tests/. Third-party materials retain their own rights and any separately stated terms.
+
+Software and source-code files, including scripts/verify_package.py, are excluded. No additional software reuse license has been selected. Rights under applicable law and GitHub's terms are unaffected.
+
+The unchanged official legal code is in licenses/CC-BY-NC-4.0.txt.
+Canonical license: https://creativecommons.org/licenses/by-nc/4.0/
+Official legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt
+
+See LICENSE-DECISION.md for scope details, attribution, and the separate case-by-case commercial-permission policy. The policy does not add terms to the CC license. Copyright permission and claims of framework conformity are separate.

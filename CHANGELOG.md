@@ -1,5 +1,15 @@
 # Changelog
 
+## Draft v0.3.4 - 2026-10-07
+
+- Adopted CC BY-NC 4.0 for documentation, diagrams, the guide, and templates; included the unchanged official legal code with a separate scope notice.
+- Excluded executable code, including the package verifier, and retained its additional-license-unselected status.
+- Recorded case-by-case commercial permission review, with no blanket company-internal-use exception or guaranteed permission, fee arrangement, or certification.
+- Distinguished copyright adaptation rights from Core adherence and framework claims; added no ethical-use restriction to the CC legal code.
+- Clarified that users retain rights in their original Charter text and personal information and have no publication duty.
+- Updated the current guide and edition labels; appended later licensing notes to historical reviews while preserving their original findings.
+- Preserved Core 0.2.0-draft and the verifier code byte for byte. Previous commits and distributed v0.3.3 files remain historical versions.
+
 ## Draft v0.3.3 — 2026-10-07
 
 - Replaced the one-level revision cycle with a diagram showing enduring user-confirmed values and context-sensitive application within the separate Core Safeguards floor.

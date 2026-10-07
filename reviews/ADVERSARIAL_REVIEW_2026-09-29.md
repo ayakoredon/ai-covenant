@@ -71,3 +71,7 @@ Draft v0.2 supports ordinary personal and professional assistance with human con
 ## Release recommendation
 
 Draft v0.2 may be shared as a clearly labeled **concept and request-for-comment candidate** after owner review. It should not be presented as a stable implementation framework, certification, legal instrument, or sufficient governance for consequential autonomous systems.
+
+## Subsequent licensing decision - 7 October 2026
+
+The licensing status above is retained as the historical review record. Draft v0.3.4 adopts CC BY-NC 4.0 for documentation, diagrams, the guide, and document templates, with software excluded and additional software licensing still undecided. Commercial permission is considered separately, case by case. See [the current licensing notice](../LICENSE-DECISION.md). This decision does not change the Core or establish certification or independent assurance.

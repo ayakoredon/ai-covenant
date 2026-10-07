@@ -22,7 +22,7 @@
 - **Question 1 “yes” or “unsure”:** Also complete an Environment Control and Test Record. Use action-level authorization for each protected action.
 - **Question 2 “yes” or “unsure”:** Also complete a [Data Handling Record](DATA_HANDLING_RECORD.md) and an [Environment Control and Test Record](ENVIRONMENT_CONTROL_AND_TEST_RECORD.md). Protected data access requires the formal controls and action-level authorization, even if nothing is changed outside the conversation. If another person’s data or rights may be affected, continue to the impact route as well.
 - **Question 3 “yes” or “unsure”:** Also complete a [Use-Case and Impact Record](USE_CASE_AND_IMPACT_RECORD.md), a [Contestability and Remedy Plan](CONTESTABILITY_AND_REMEDY_PLAN.md), and an [Environment Control and Test Record](ENVIRONMENT_CONTROL_AND_TEST_RECORD.md). Consequential recommendations are protected actions even without a send or publish step.
-- **Question 4 “yes” or “unsure”:** The quick path stops. Draft v0.3.3 is not sufficient by itself. Obtain appropriate organizational authority, domain expertise, security and legal review, independent assessment, and meaningful input from affected people or legitimate representatives.
+- **Question 4 “yes” or “unsure”:** The quick path stops. Draft v0.3.4 is not sufficient by itself. Obtain appropriate organizational authority, domain expertise, security and legal review, independent assessment, and meaningful input from affected people or legitimate representatives.
 
 No response on this screen creates authority over another person or their data.
 
